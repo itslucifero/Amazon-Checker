@@ -1,4 +1,4 @@
-#coded by hrackedz  https://t.me/kickflap
+#coded by itslucifero  https://t.me/itslucifero
 import os
 
 from time import sleep
@@ -35,18 +35,11 @@ old_number=[]
 b = """\033[41;1m
 
 
-        ( /(                         )          )\ )    ( /( 
-        )\())  (        )         ( /(     (   (()/(    )\())
-        ((_)\   )(    ( /(    (    )\())   ))\   /(_))  ((_) 
-        _((_) (()\   )(_))   )\  ((_)\   /((_) (_))_    _((_)
-        | || |  ((_) ((_)_   ((_) | |(_) (_))    |   \  |_  /
-        | __ | | '_| / _` | / _|  | / /  / -_)   | |) |  / / 
-        |_||_| |_|   \__,_| \__|  |_\_\  \___|   |___/  /___|\033[0m  
-                                  
+     itslucifero
           Amazon Leads checker V2.0
           For premium stuff 
-          Telegram : @kickflap
-          Channel : https://t.me/spammer_tools
+          Telegram : @itslucifero
+          Channel : https://t.me/itslucifero
           
 
 
